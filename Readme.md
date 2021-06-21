@@ -14,5 +14,8 @@ Time 2:30
 - [x] Lecture 4 - Lecture 5
 
 Time 3:00
-- [ ] Lecture 6 - Lecture ?
+- [x] Lecture 6 - Lecture 7
+
+Time 3:30
+- [ ] Lecture 8 - Lecture ?
 
