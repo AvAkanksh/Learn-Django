@@ -5,5 +5,4 @@
 ## Progress Bar
 
 Time: 1:50
-
-Lecture 0
+- [ ] Lecture 0 - Lecture ?
