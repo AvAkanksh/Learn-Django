@@ -20,9 +20,9 @@ from . import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.index,name='home'),
-    path('removepunc',views.about,name='rmvpunc'),
-    path('capfirst',views.contact,name='capfst'),
-    path('newlineremove',views.index,name='newlrmv'),
-    path('spaceremover',views.about,name='spacermv'),
-    path('charcount',views.contact,name='charcnt')
+    path('removepunc',views.removepunc,name='rmvpunc'),
+    path('capfirst',views.capfirst,name='capfst'),
+    path('newlineremove',views.newlineremover,name='newlrmv'),
+    path('spaceremover',views.spaceremover,name='spacermv'),
+    path('charcount',views.charcount,name='charcnt')
 ]

@@ -10,7 +10,7 @@ def removepunc(request):
 def capfirst(request):
     return HttpResponse('capitalize first letter')
 
-def newlineremove(request):
+def newlineremover(request):
     return HttpResponse('New line remover')
 
 def spaceremover(request):
