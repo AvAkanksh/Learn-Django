@@ -6,5 +6,6 @@
 
 Time: 1:50
 - [x] Lecture 0 - Lecture 1
+
 Time 2:00
 - [ ] Lecture 2 - Lecture ?
